@@ -1,8 +1,6 @@
-### I answer by the name of Iyonissio Daniel Sitoe Graduated in Computer and Telecommunications Engineering
+### 🧑🏽‍💻 I answer by the name of Iyonissio Daniel Sitoe Graduated in Computer and Telecommunications Engineering
 
 #### 💬 A determined and challenge-driven young man, passionate about technologies and wants to use them as a tool to leverage people and organizations.
-
-🧑🏽‍💻 I'm currently working with front-end and back-end web development 
 
 <div>
   <a href="https://github.com/iyonissio">
@@ -19,18 +17,3 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
-
-<!--
-** .
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
