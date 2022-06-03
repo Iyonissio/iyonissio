@@ -2,6 +2,8 @@
 
 💬 I am a determined and challenge driven young man, passionate about technologies. With a history of working in the development industry, with experience in the development of WEB, Mobile and USSD solutions, making use of robust and current tools such as Nodejs, Django, Python, Java, React & React Native.
 
+LINKEDIN: www.linkedin.com/in/iyonissio-daniel-sitoe
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="60" width="70" src="https://user-images.githubusercontent.com/57901563/169515389-09317c46-9a88-4c9c-baa8-23ba0813bc6e.svg">
