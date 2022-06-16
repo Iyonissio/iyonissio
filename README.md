@@ -1,4 +1,4 @@
-#### 🧑🏽‍💻 Computer and Telecommunications Engineer | Software Developer
+#### 🧑🏽‍💻 <script> Software Developer | Computer and Telecommunications Engineer </script> 
 
 💬 I am a determined and challenge driven young man, passionate about technologies. With a history of working in the development industry, with experience in the development of WEB, Mobile and USSD solutions, making use of robust and current tools such as Nodejs, Django, Python, Java, React & React Native.
 
